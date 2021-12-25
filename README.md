@@ -1,1 +1,1 @@
-# rsschool-cv
+https://konstanty-martyniuk.github.io/rsschool-cv/
