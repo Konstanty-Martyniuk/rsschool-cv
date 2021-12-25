@@ -57,3 +57,17 @@ I completed an internship in a Vorwerk and now I am improving my skills at Credi
 
     }
 ```
+
+## Education
+
+* UMCS (Lublin, Polska)
+* Pluralsight - [Java and Spring](https://pluralsight.com)
+* JetBrains Academy - [Java Path]((https://hyperskill.org/)
+* Youtube
+
+## Languages
+
+* Russian - native
+* Polish - native
+* English - B2
+* Deutsch - A1
