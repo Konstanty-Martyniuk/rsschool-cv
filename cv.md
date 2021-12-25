@@ -62,7 +62,7 @@ I completed an internship in a Vorwerk and now I am improving my skills at Credi
 
 * UMCS (Lublin, Polska)
 * Pluralsight - [Java and Spring](https://pluralsight.com)
-* JetBrains Academy - [Java Path]((https://hyperskill.org/)
+* JetBrains Academy - [Java Path](https://hyperskill.org/)
 * Youtube
 
 ## Languages
